@@ -28,8 +28,8 @@ Coordinates for the paranitrophenolate anion
 Running the command `./xyz2dalmol.py cc-pVTZ pNP.xyz -1` will output the file `pNP.mol`, containing:
 ```
 BASIS
-6-31G 
- 14 
+cc-pVTZ
+14 
 Coordinates for the paranitrophenolate anion
 Atomtypes=5 Angstrom Charge=-1 NoSymmetry
 Charge=6 Atoms=6
